@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Blog is up!"
 date:   2021-01-04 08:58:07 -0600
-categories: jekyll update
+categories: other
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The blog is finally up, after pondering about it for way too long. As one often do, you get stuck with analysis paralysis, in this case for everything from the actual name of the blog to which technology to use for actually publishing the blog.
+During the christmas holiday, I finally decided to just move forward. The name you probably already have seen and the technology fell on hosting the blog via Github Pages and publishing it with Jekyll (which was far more complicated to get working locally than it probably should've been, so I might write a blog post about that subject)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+My main focus will be on writing about Microsoft's Power Platform and I already have multiple planned blog posts about Power Automate, Power Apps and Power Virtual Agents.
+Stay tuned in the coming weeks for the first real posts.
