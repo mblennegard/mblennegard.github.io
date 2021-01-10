@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog is up!"
-date:   2021-01-04 08:58:07 -0600
+date:   2021-01-10 08:58:07 -0600
 categories: other
 ---
 The blog is finally up, after pondering about it for way too long. As one often do, you get stuck with analysis paralysis, in this case for everything from the actual name of the blog to which technology to use for actually publishing the blog.
